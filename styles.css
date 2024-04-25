@@ -1,0 +1,263 @@
+ * {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+ body {
+    background-color: #F1F1F1
+}
+
+.headertop {
+    position: fixed;
+    width: 100%;
+    background-color: #F1F1F1;
+    top: 0;
+    z-index: 999;
+}
+
+.headertop > nav {
+    width: 1166px;
+    height: 40px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+nav > a {
+    font-family: 'roboto';
+    text-decoration: none;
+    font-size: 11;
+    color: black;
+    margin-right: 35px;
+    font-weight: 700;
+}   
+
+.main {
+    font-family: 'roboto';
+    width: 1066px;
+    margin: 76px auto;
+    margin-right: 277px;
+    font-weight: 700;
+    line-height: 28.13px;
+    font-size: 24px;
+}
+
+.footerlast {
+    margin-top: 50px;
+    width: 100%;
+    height: 200px;
+    background-color: #243043;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+  
+.image-container img {
+    display: block;
+    width: 362px;
+    height: 186px;
+}
+  
+.overlay-text {
+    font-family: 'roboto';
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #fff; 
+    padding: 10px 20px; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+.underphoto1 {
+    height: 171px;
+    width: 362px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.margin1 {
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: 175px;
+}
+
+#paragraph1 {
+    margin-top: 50px;
+    margin-left: 35px;
+    display: inline-block;
+    font-family: 'roboto';
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 11.71px;
+    color: #8A8787;
+    width: 236px;
+    height: 36px;
+}
+
+#clock1 {
+    width: 16px;
+    height: 16px;
+    opacity: 60%;
+    margin-left: 37px;
+    margin-top: 5px;
+}
+
+#time1 {
+    margin: 8.5px;
+    font-family: 'roboto';
+    margin-left: 10px;
+    font-family: 700;
+    font-size: 10px;
+    line-height: 11.72px;
+    color: #8A8787;
+}
+
+.timeandago {
+    display: flex;
+}
+
+.margin2 {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#rounded {
+    border-radius: 5px;
+}
+
+.image-container2 {
+    position: relative;
+    display: inline-block;
+}
+
+.photo4 {
+    width: 758px;
+    height: 430px;
+}
+
+.photo5 {
+    width: 362px;
+    height: 212px;
+    display: inline-block;
+    top: 91px;
+    left: 220px;
+}
+
+.photo6 {
+    display: inline-block;
+    width: 362px;
+    height: 212px;
+}
+
+#bigphoto {
+    display: inline-block;
+    margin-left: 175px;
+    border-radius: 5px;
+    width: 762px;
+    height: 430px;
+}
+
+#smallphoto {
+    display: inline-block;
+    border-radius: 5px;
+    width: 362px;
+    height: 212px;
+}
+
+#smallphotoo {
+    display: inline-block;
+    border-radius: 5px;
+    width: 362px;
+    height: 212px;
+}
+
+.bigdiv2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 28px;
+    margin-left: 33px;
+}
+
+.child7 {
+    height: 212px;
+    width: 362px;
+    display: inline-block;
+    margin-top: 28px;
+}
+
+.child8 {
+    height: 212px;
+    width: 362px;
+    display: inline-block;
+    margin-top: 90px;
+}
+
+.child6 {
+    display: inline-block;
+}
+
+.divsmallbig {
+    margin-left: 50px;
+    display: inline-block;
+    width: 362px;
+}
+
+#smallphoto1 {
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 5px;
+    width: 362px;
+    height: 212px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #243043;
+    position: absolute;
+    top: 1725px;
+ }
+
+ footer > .footer-content {
+    width: 1166px;
+    margin: 0 auto;
+}
+
+ol {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: "Roboto";
+    color: #818687;
+    list-style-type: none;
+    margin-top: 59px;
+    margin-right: 75px;
+}
+
+li {
+    margin-bottom: 14px;
+}
+
+#last {
+    font-family: 'roboto';
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 40px;
+    position: absolute;
+    color: #FFFFFF;
+    top: 60px;
+    display: inline-block;
+}
+#geolab {
+    width: 38px;
+    height: 40px;
+    margin-left: 700px;
+    margin-bottom: 60px;
+}
+
